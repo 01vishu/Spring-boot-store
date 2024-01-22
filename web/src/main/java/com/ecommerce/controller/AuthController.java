@@ -18,9 +18,9 @@ public class AuthController {
         return "This is welcome page!";
     }
 
-    @GetMapping("{username}")
-    public User getUserById(@PathVariable String username){
-    return userService.findByUsername(username);
-    }
+//    @GetMapping("{username}")
+//    public User getUserById(@PathVariable String username){
+//    return userService.findByUsername(username);
+//    }
 
 }

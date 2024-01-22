@@ -23,6 +23,7 @@
             <artifactId>core</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
+
         <!-- Add dependencies for Spring Boot, Web, Security, etc. -->
     </dependencies>
 
